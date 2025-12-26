@@ -1,6 +1,5 @@
 # Spotify-Popularity-Analysis
 Data analysis project using Python(Pandas)
-# Spotify Track Popularity Analysis 🎵
 
 # Project Overview
 This project analyzes Spotify track features to understand
